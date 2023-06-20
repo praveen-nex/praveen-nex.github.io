@@ -6,9 +6,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.healingmatch.gpsmassageapp",
-      "sha256_cert_fingerprints": [
-        "D6:0D:47:4A:1B:DC:E5:57:63:15:EE:20:66:A6:FB:C0:91:0A:33:F4:4E:1F:67:52:59:C7:A4:0E:F8:3C:F6:EE"
-      ]
+      "sha256_cert_fingerprints": ["D6:0D:47:4A:1B:DC:E5:57:63:15:EE:20:66:A6:FB:C0:91:0A:33:F4:4E:1F:67:52:59:C7:A4:0E:F8:3C:F6:EE"]
     }
   }
 ]
